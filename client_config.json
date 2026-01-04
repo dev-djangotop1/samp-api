@@ -1,7 +1,7 @@
 {
   "client_config": 
   {
-    "url_cache_files": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/url_cache_files.json",
+    "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
     "version_code": 114,
     "url_launcher": "walo hhhh"
   }
