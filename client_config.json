@@ -1,6 +1,8 @@
 {
-  "client_config": {
-    "version_code": 114,
+  "client_config": 
+  {
     "url_cache_files": "https://server3.sampmobile.com/files/files.json",
+    "version_code": 114,
+    "url_launcher": "walo hhhh"
   }
 }
