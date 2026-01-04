@@ -1,0 +1,7 @@
+{
+  "clientVersion": 40,
+  "client_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/apk/samp3.apk",
+  "data_full_url": "https://raw.githubusercontent.com/dev-djangotop1/samp-api/main/files.json",
+  "data_lite_url": "https://raw.githubusercontent.com/dev-djangotop1/samp-api/main/files.json",
+  "data_samp_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/samp_list.json"
+}
