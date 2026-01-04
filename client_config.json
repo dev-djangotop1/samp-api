@@ -2,6 +2,6 @@
   "client_config": {
     "version_code": 114,
     "url_launcher": "/",
-    "url_cache_files": "https://samp-mobile.shop/files.json"
+    "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/samp_list.json"
   }
 }
