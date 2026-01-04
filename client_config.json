@@ -1,6 +1,6 @@
 {
   "client_config": {
-    "url_cache_files": "https://raw.githubusercontent.com/dev-djangotop1/samp-api/main/files.json",
+    "url_cache_files": "https://samp-mobile.shop/files.json",
     "version_code": 86,
     "url_launcher": "/"
   }
