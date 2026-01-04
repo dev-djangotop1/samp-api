@@ -6,6 +6,6 @@
     "game_url": "https://samp-mobile.shop/launcherarizona.apk",
     "version_code": 86,
     "url_launcher": "https://samp-mobile.shop/launcher.apk",
-    "url_cache_files": "/"
+    "url_cache_files": "https://samp-mobile.shop/files.json?test=1"
   }
 }
