@@ -2,6 +2,6 @@
   "client_config": {
     "version_code": 86,
     "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
-    "url_launcher": ""
+    "url_launcher": "//"
   }
 }
