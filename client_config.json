@@ -1,7 +1,7 @@
 {
   "client_config": {
     "version_code": 115,
-    "url_launcher": "",
-    "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json"
+    "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
+    "url_launcher": ""
   }
 }
