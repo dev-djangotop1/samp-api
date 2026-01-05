@@ -2,6 +2,6 @@
   "client_config": {
     "version_code": 86,
     "url_launcher": "/",
-    "url_cache_files": "https://raw.githubusercontent.com/dev-djangotop1/samp-api/refs/heads/main/files.json"
+    "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json"
   }
 }
