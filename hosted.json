@@ -1,0 +1,22 @@
+{
+  "query": [
+    {
+      "number": 1,
+      "name": "Last city| (SV#1)",
+      "ip": "51.38.205.167",
+      "port": 32676,
+      "online": 450,
+      "maxplayers": 800,
+      "password": false
+    },
+    {
+      "number": 2,
+      "name": "L3wza x L7mri""
+      "ip": "ip2.brasilplayshox.com.br",
+      "port": 7777,
+      "online": 350,
+      "maxplayers": 800,
+      "password": false
+    }
+  ]
+}
