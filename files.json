@@ -4,43 +4,44 @@
       "name": "stream.ini",
       "path": "stream.ini",
       "url": "https://www.dropbox.com/scl/fi/3fuyd3vjelhch33wwst04/stream.ini?rlkey=kdssyz0zjd5nr8kzv6ekfkmsu&st=a29x1sr3&dl=1",
-      "size": 197
+      "bytes": 197
     },
     {
       "name": "anim.img",
       "path": "anim.img",
       "url": "https://www.dropbox.com/scl/fi/jti8fb8cfyejy1u9b61bc/anim.img?rlkey=trh6pzbjmuk1hefl7ny46olx8&st=hvel9c46&dl=1",
-      "size": 80000000
+      "bytes": 80000000
     },
     {
       "name": "cuts.img",
       "path": "cuts.img",
       "url": "https://www.dropbox.com/scl/fi/ik0jdzute0ey5i9p4drt6/cuts.img?rlkey=yblwnhfzot7oa9jegyrrbiuwr&st=opcmiriw&dl=1",
-      "size": 120000000
+      "bytes": 120000000
     },
     {
       "name": "ped.ifp",
       "path": "ped.ifp",
       "url": "https://www.dropbox.com/scl/fi/lf2hw6fycs3bce38jg99l/ped.ifp?rlkey=0w98nq3mq9dddpel24abvh4gy&st=i6tyg51f&dl=1",
-      "size": 11200000
+      "bytes": 11200000
     },
     {
       "name": "gta_int.img",
       "path": "gta_int.img",
       "url": "https://www.dropbox.com/scl/fi/wt7s44b27algnqhxgpo80/gta_int.img?rlkey=k6afubdyccdmkfyesklgff04p&st=ag9slvs8&dl=1",
-      "size": 344000000
+      "bytes": 344000000
     },
     {
       "name": "gta3.img",
       "path": "gta3.img",
       "url": "https://www.dropbox.com/scl/fi/ldi0ryksu5elzd9erbcup/gta3.img?rlkey=2y3joqxkuw1mbfqr05if3qg1z&st=xy4g9kl4&dl=1",
-      "size": 2392000000
+      "bytes": 2392000000
     },
     {
       "name": "samp.img",
       "path": "samp.img",
       "url": "https://www.dropbox.com/scl/fi/7g96dx2ojc09acbn094b8/samp.img?rlkey=ux355yutpzll2n22nswznsbbv&st=xvy560we&dl=1",
-      "size": 288000000
+      "bytes": 288000000
     }
   ]
+
 }
