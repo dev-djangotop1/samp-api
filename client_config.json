@@ -1,7 +1,7 @@
 {
   "client_config": {
-    "version_code": 87,
-    "url_launcher": "https://server3.sampmobile.com/apk/samp.apk",
+    "version_code": 85,
+    "url_launcher": "//",
     "url_cache_files": "https://raw.githubusercontent.com/dev-djangotop1/samp-api/main/files.json",
     "reklam_ayar_durum": 1,
     "admin_nickleri": [
