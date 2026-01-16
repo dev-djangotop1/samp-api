@@ -1,7 +1,6 @@
 {
   "client_config": {
-    "version_code": 86,
-    "url_launcher": "https://content.unisamp-mobile.com/jmobile_cache/mobile/apk/samp.bin",
-    "data_full_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
+    "version_code": 88,
+    "url_launcher": "https://www.dropbox.com/scl/fi/gjr5a6jnefkcrg6zojch5/SA-MP-Mobile_4.7.1.2.apk?rlkey=v1imk68fbfnyfrzlnk6kzzcyt&st=urte3qpt&dl=1",
     "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json"
 }
